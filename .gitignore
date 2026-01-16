@@ -39,3 +39,25 @@
 
 # debug information files
 *.dwo
+
+# Specific Stuff
+.idea
+.idea/**/workspace.xml
+
+# CMake Build Artifacts
+cmake-build-*
+build/
+bin/
+lib/
+
+# IntelliJ
+out/
+
+
+
+# CMake cache file
+CMakeCache.txt
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
